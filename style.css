@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(58, 47, 40);
+}
+h1{
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+
+h3{
+    font-size: rem;
+    margin-bottom: 40%;
+    color: rgb(141, 132, 132);
+}
+
+img{
+    border: 5px solid white;
+}
+.Fire{
+    width: 50%;
+    margin-left: 27%;
+    margin-top: 5%;
+    color: rgb(255, 167, 51);
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+}
+
+
